@@ -1,27 +1,3 @@
-"""
-Adaptive Multi-Modal AI Framework for Self-Regulated Learning
-
-This package provides a comprehensive framework for implementing federated deep reinforcement
-learning approaches to support personalized self-regulated learning in educational and
-workplace settings.
-
-Key Components:
-- Federated Deep Reinforcement Learning
-- Multi-Modal Learning Analytics
-- Metacognitive State Estimation
-- Privacy-Preserving AI
-- Cross-Domain Transfer Learning
-
-Authors: Manus AI Research Team
-License: MIT
-Version: 1.0.0
-"""
-
-__version__ = "1.0.0"
-__author__ = "Manus AI Research Team"
-__email__ = "research@manus.ai"
-__license__ = "MIT"
-
 # Core modules
 from .core import (
     FederatedDRLAgent,
